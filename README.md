@@ -18,4 +18,4 @@ Une application simple permettant de vérifier si un nombre entier est **pair** 
 
 1. Clonez le projet :  
    ```bash
-   git clone https://github.com/votre-utilisateur/pair-impair-app.git
+   git clone https://github.com/SERGELEBON/trouver_nombre.git
